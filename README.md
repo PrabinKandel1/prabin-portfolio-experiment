@@ -24,3 +24,11 @@ Archived experiment. It is kept for historical reference and is not the active p
 ## Note
 
 This repository is source code only; no live website is being deployed from it.
+
+## Author
+
+Prabin Kandel
+
+GitHub: @PrabinKandel1
+
+Email: kandelprabin09@gmail.com
